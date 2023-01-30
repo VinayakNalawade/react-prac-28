@@ -1,0 +1,17 @@
+.cart-container {
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 50px;
+  width: 90%;
+  max-width: 1110px;
+}
+
+.cartimg {
+  width: 60%;
+  max-width: 600px;
+}
